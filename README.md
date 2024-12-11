@@ -11,6 +11,7 @@
 4. [Reglas](#reglas-del-automata)
 5. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py)
 6. [Video](https://youtu.be/Rkhmkz2bDsU)
+7. [Diapositivas](https://www.canva.com/design/DAGY7mXZcAs/5XaHi5yo-jfHTEkdyhPcJg/edit)
 
 
 ## Descripción
