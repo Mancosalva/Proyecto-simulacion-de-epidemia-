@@ -1,6 +1,6 @@
 # Modelo de propagación de enfermedad
 
-![6cfb4831-7c7c-4994-afa1-c0685850ac79](https://github.com/user-attachments/assets/32ded686-b167-40b1-b48b-ec26d8dec4f0)
+![d744c463-77cf-412a-b276-27aef77ee82a](https://github.com/user-attachments/assets/460e3182-d745-4744-9a61-73336f5ad3ef)
 
 
 ## Tabla de Contenidos
@@ -8,7 +8,7 @@
 1. [Descripción](#descripción)
 2. [Características](#características)
 3. [Instalación](#instalación)
-4. ([#Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py)) 
+4. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py))
 
 
 ## Descripción
