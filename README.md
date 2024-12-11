@@ -8,7 +8,8 @@
 1. [Descripción](#descripción)
 2. [Características](#características)
 3. [Instalación](#instalación)
-4. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py)
+4. [Reglas](#reglas-del-automata)
+5. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py)
 
 
 ## Descripción
@@ -37,3 +38,11 @@ Antes de instalar este proyecto, asegúrate de tener instalados:
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia.git
+
+## Reglas del Automata
+
+![1](https://github.com/user-attachments/assets/dc4e8cd4-5de8-47e3-a6d7-dea0c79c7dbd)
+
+![2](https://github.com/user-attachments/assets/898055ad-7dd8-461a-9d13-7c256b13fdbf)
+
+![3](https://github.com/user-attachments/assets/79d45232-f318-4a89-b2dd-3a2e65b6123e)
