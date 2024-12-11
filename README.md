@@ -10,6 +10,7 @@
 3. [Instalación](#instalación)
 4. [Reglas](#reglas-del-automata)
 5. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py)
+6. [Video](https://youtu.be/Rkhmkz2bDsU)
 
 
 ## Descripción
