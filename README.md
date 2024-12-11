@@ -8,7 +8,7 @@
 1. [Descripción](#descripción)
 2. [Características](#características)
 3. [Instalación](#instalación)
-4. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py))
+4. [Codigo](https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia-/blob/main/Simulacion%20Epidemia.py)
 
 
 ## Descripción
