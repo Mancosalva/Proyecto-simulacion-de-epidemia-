@@ -19,7 +19,9 @@ Este proyecto se basa en la simulacion de una epidemia, siendo este un automata 
 
 - Si una persona tiene un vecino infectado este tiene una posibilidad de infectarse 
 - Despues de cierta cantidad de iteracciones si una persona esta infectada existe la probabilidad de que esta muera
-- Si despues de cierta cantidad de iteraciones una persona infectada no a muerto esta se recuperara 
+- Si despues de cierta cantidad de iteraciones una persona infectada no a muerto esta se recuperara
+- Si una persona sana ha pasado cierta cantidad de iteraciones sin ser infectado entrara en cuarentena y no podra ser infectado
+- Se puede elegir si una persona Recuperada puede volver a ser infectada y cuantas veces esto puede ocurrir
 
 ## Instalación
 
