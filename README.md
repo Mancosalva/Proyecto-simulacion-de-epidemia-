@@ -36,4 +36,4 @@ Antes de instalar este proyecto, asegúrate de tener instalados:
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/Mancosalva/Proyecto-Virus-Zombie-Simulacion.git
+   git clone https://github.com/Mancosalva/Proyecto-simulacion-de-epidemia.git
